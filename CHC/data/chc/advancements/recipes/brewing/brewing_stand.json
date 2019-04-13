@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:brewing_stand"
+    ]
+  },
+  "criteria": {
+    "brewing_stand": {
+      "trigger": "cweepahermitcraft:brewing_stand"
+    }
+  },
+  "requirements": [
+    [
+      "brewing_stand"
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bowl",
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:bowl",
+    "count": 4
+  }
+}

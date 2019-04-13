@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:stone_stairs"
+    ]
+  },
+  "criteria": {
+    "stone_stairs": {
+      "trigger": "cweepahermitcraft:stone_stairs"
+    }
+  },
+  "requirements": [
+    [
+      "stone_stairs"
+    ]
+  ]
+}

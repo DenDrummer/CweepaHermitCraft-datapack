@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "loom",
+  "pattern": [
+    "@@",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "@": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:loom"
+  }
+}
