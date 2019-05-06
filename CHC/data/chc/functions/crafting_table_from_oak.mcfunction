@@ -1,12 +1,12 @@
 #add recipe
-recipe give @s[scores={Level=1..}] chc:crafting_table_from_oak
+recipe give @s chc:crafting_table_from_oak
 
 #add to recipe count
-scoreboard players add @s[scores={Level=1..}] RecipesUnlocked 1
+scoreboard players add @s RecipesUnlocked 1
 
 #add tag
-tag @s[scores={Level=1..}] add crafting_table_from_oak
+tag @s add crafting_table_from_oak
 
 #cost
-scoreboard players remove @s[scores={Level=1..}] OakPlanksCrafted 160
-xp add @s[scores={Level=1..}] -1 levels
+scoreboard players remove @s OakPlanksCrafted 160
+scoreboards players remove @s RecipePoints 1

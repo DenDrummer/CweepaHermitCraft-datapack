@@ -42,6 +42,7 @@ scoreboard objectives add Food food
 scoreboard objectives add Health health
 scoreboard objectives add Level level
 scoreboard objectives add PlayerKills playerKillCount "Player kills"
+scoreboard objectives add RecipePoints dummy "Recipe-points"
 scoreboard objectives add RecipesUnlocked dummy "Recipes unlocked"
 
 
