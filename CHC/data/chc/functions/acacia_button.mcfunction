@@ -9,4 +9,4 @@ tag @s add acacia_button
 
 #cost
 scoreboard players remove @s AcaciaPlankCraft 40
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

@@ -10,4 +10,4 @@ tag @s add oak_boat
 #cost
 scoreboard players remove @s OakPlanksCrafted 200
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

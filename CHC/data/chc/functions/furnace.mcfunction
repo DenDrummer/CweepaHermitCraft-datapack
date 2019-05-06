@@ -10,4 +10,4 @@ tag @s add furnace
 #cost
 scoreboard players remove @s StoneMined 500
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

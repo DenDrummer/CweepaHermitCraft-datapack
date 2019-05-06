@@ -9,4 +9,4 @@ tag @s add birch_button
 
 #cost
 scoreboard players remove @s BirchPlanksCraft 40
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

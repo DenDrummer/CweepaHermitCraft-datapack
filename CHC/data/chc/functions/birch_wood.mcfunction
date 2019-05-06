@@ -9,4 +9,4 @@ tag @s add birch_wood
 
 #cost
 scoreboard players remove @s BirchLogMined 200
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

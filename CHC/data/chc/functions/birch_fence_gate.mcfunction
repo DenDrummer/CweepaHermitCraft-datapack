@@ -11,4 +11,4 @@ tag @s add birch_fence_gate
 scoreboard players remove @s BirchPlanksCraft 80
 scoreboard players remove @s SticksCrafted 160
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

@@ -11,4 +11,4 @@ tag @s add composter_from_birch
 scoreboard players remove @s BirchPlanksCraft 120
 scoreboard players remove @s BirchFenceCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

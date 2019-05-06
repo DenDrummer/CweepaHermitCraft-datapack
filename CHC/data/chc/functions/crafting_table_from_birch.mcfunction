@@ -9,4 +9,4 @@ tag @s add crafting_table_from_birch
 
 #cost
 scoreboard players remove @s BirchPlanksCraft 160
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

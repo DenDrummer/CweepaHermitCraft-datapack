@@ -11,4 +11,4 @@ tag @s add wooden_hoe_from_spruce
 scoreboard players remove @s SprucePlankCraft 80
 scoreboard players remove @s SticksCrafted 80
 scoreboard players remove @s TODO 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

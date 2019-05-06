@@ -11,4 +11,4 @@ tag @s add composter_from_acacia
 scoreboard players remove @s AcaciaPlankCraft 120
 scoreboard players remove @s AcaciaFenceCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

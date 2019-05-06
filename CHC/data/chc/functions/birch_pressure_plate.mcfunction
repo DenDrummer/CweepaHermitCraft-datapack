@@ -9,4 +9,4 @@ tag @s add birch_pressure_plate
 
 #cost
 scoreboard players remove @s BirchPlanksCraft 80
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

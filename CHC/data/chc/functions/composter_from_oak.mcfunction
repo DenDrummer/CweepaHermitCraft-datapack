@@ -11,4 +11,4 @@ tag @s add composter_from_oak
 scoreboard players remove @s OakPlanksCrafted 120
 scoreboard players remove @s OakFenceCrafted 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

@@ -11,4 +11,4 @@ tag @s add composter_from_spruce
 scoreboard players remove @s SprucePlankCraft 120
 scoreboard players remove @s SpruceFenceCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

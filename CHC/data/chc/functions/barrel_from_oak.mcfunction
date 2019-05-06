@@ -11,4 +11,4 @@ tag @s add barrel_from_oak
 scoreboard players remove @s OakPlanksCrafted 240
 scoreboard players remove @s OakSlabCrafted 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

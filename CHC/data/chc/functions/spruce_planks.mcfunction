@@ -9,4 +9,4 @@ tag @s add spruce_planks
 
 #cost
 scoreboard players remove @s SpruceLogMined 50
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

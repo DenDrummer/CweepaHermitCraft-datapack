@@ -10,4 +10,4 @@ tag @s add bowl_from_birch
 #cost
 scoreboard players remove @s BirchPlanksCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

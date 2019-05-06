@@ -10,4 +10,4 @@ tag @s add stone
 #cost
 scoreboard players remove @s StoneMined 100
 scoreboard players remove @s FurnaceCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

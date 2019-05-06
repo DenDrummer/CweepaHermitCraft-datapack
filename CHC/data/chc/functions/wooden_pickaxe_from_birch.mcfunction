@@ -11,4 +11,4 @@ tag @s add wooden_pickaxe_from_birch
 scoreboard players remove @s BirchPlanksCraft 120
 scoreboard players remove @s SticksCrafted 80
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

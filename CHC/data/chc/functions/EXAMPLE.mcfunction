@@ -9,4 +9,4 @@ tag @s add TODO
 
 #cost
 scoreboard players remove @s TODO 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

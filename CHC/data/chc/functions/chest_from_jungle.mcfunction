@@ -10,4 +10,4 @@ tag @s add chest_from_jungle
 #cost
 scoreboard players remove @s JunglePlankCraft 320
 scoreboard players remove @s WorkbenchCrafted 1
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels

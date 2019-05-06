@@ -9,4 +9,4 @@ tag @s add stick_from_birch
 
 #cost
 scoreboard players remove @s BirchPlanksCraft 80
-scoreboards players remove @s RecipePoints 1
+xp add @s -1 levels
