@@ -10,5 +10,5 @@ tag @s add wooden_axe_from_spruce
 #cost
 scoreboard players remove @s SprucePlankCraft 120
 scoreboard players remove @s SticksCrafted 80
-scoreboard players remove @s TODO 1
+scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
