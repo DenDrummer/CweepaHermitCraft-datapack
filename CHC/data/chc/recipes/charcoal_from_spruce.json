@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "group": "charcoal"
+  "group": "charcoal",
   "ingredient": {
     "tag": "minecraft:spruce_logs"
   },

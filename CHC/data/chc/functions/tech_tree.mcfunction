@@ -1,3 +1,4 @@
+execute as @a[scores={AcaciaPlankCraft=40..},level=1..,tag=!acacia_button] run function chc:acacia_button
 execute as @a[scores={AcaciaPlankCraft=200..,WorkbenchCrafted=1..},level=1..,tag=!acacia_boat] run function chc:acacia_boat
 execute as @a[scores={AcaciaLogMined=50..},level=1..,tag=!acacia_planks] run function chc:acacia_planks
 execute as @a[scores={AcaciaPlankCraft=240..,AcaciaSlabCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!barrel_from_acacia] run function chc:barrel_from_acacia
@@ -36,7 +37,9 @@ execute as @a[scores={SprucePlankCraft=120..,SpruceFenceCraft=120..,WorkbenchCra
 execute as @a[scores={BirchPlanksCraft=160..},level=1..,tag=!crafting_table_from_birch] run function chc:crafting_table_from_birch
 execute as @a[scores={OakPlanksCrafted=160..},level=1..,tag=!crafting_table_from_oak] run function chc:crafting_table_from_oak
 execute as @a[scores={SprucePlankCraft=160..},level=1..,tag=!crafting_table_from_spruce] run function chc:crafting_table_from_spruce
+execute as @a[scores={DarkOakLogMined=50..},level=1..,tag=!dark_oak_planks] run function chc:dark_oak_planks
 execute as @a[scores={StoneMined=800..,WorkbenchCrafted=1..},level=1..,tag=!furnace] run function chc:furnace
+execute as @a[scores={JungleLogMined=50..},level=1..,tag=!jungle_planks] run function chc:jungle_planks
 execute as @a[scores={SticksCrafted=280..,WorkbenchCrafted=1..},level=1..,tag=!ladder] run function chc:ladder
 execute as @a[scores={OakPlanksCrafted=200..,WorkbenchCrafted=1..},level=1..,tag=!oak_boat] run function chc:oak_boat
 execute as @a[scores={OakPlanksCrafted=40..},level=1..,tag=!oak_button] run function chc:oak_button
@@ -152,12 +155,6 @@ execute as @a[scores={SprucePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted
 #scoreboard players add @a[scores={DarkPlankCrafted=120..,SticksCrafted=80..,WorkbenchCrafted=10..,DarkOakLogMined=100..},tag=!wooden_axe_from_dark_oak] RecipesUnlocked 1
 #recipe give @a[scores={DarkPlankCrafted=120..,SticksCrafted=80..,WorkbenchCrafted=10..,DarkOakLogMined=100..}] chc:wooden_axe_from_dark_oak
 #tag @a[scores={DarkPlankCrafted=120..,SticksCrafted=80..,WorkbenchCrafted=10..,DarkOakLogMined=100..},tag=!wooden_axe_from_dark_oak] add wooden_axe_from_dark_oak
-#
-#
-#wooden_axe_from_jungle
-#scoreboard players add @a[scores={JunglePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=10..,JungleLogMined=100..},tag=!wooden_axe_from_jungle] RecipesUnlocked 1
-#recipe give @a[scores={JunglePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=10..,JungleLogMined=100..}] chc:wooden_axe_from_jungle
-#tag @a[scores={JunglePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=10..,JungleLogMined=100..},tag=!wooden_axe_from_jungle] add wooden_axe_from_jungle
 #
 #
 #wooden_axe_from_oak

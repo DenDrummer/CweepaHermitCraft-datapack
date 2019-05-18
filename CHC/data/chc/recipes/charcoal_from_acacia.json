@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "group": "charcoal"
+  "group": "charcoal",
   "ingredient": {
     "tag": "minecraft:acacia_logs"
   },

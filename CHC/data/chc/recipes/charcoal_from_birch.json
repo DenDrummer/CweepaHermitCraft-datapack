@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "group": "charcoal"
+  "group": "charcoal",
   "ingredient": {
     "tag": "minecraft:birch_logs"
   },
