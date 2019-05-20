@@ -46,6 +46,7 @@ execute as @a[scores={OakPlanksCrafted=40..},level=1..,tag=!oak_button] run func
 execute as @a[scores={OakLogMined=50..},level=1..,tag=!oak_planks] run function chc:oak_planks
 execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_stairs] run function chc:oak_stairs
 execute as @a[scores={OakPlanksCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!oak_slab] run function chc:oak_slab
+execute as @a[scores={AcaciaPlankCraft=80..},level=1..,tag=!stick_from_acacia] run function chc:stick_from_acacia
 execute as @a[scores={BirchPlanksCraft=80..},level=1..,tag=!stick_from_birch] run function chc:stick_from_birch
 execute as @a[scores={OakPlanksCrafted=80..},level=1..,tag=!stick_from_oak] run function chc:stick_from_oak
 execute as @a[scores={SprucePlankCraft=80..},level=1..,tag=!stick_from_spruce] run function chc:stick_from_spruce

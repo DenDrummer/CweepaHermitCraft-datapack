@@ -15,21 +15,32 @@ gamerule spectatorsGenerateChunks true
 #Teams
 team add Citizens
 team modify Citizens color dark_green
+team modify Citizens collisionRule never
 team modify Citizens friendlyFire false
-team modify Citizens nametagVisibility always
+team modify Citizens nametagVisibility hideForOtherTeams
 team modify Citizens seeFriendlyInvisibles true
 
 team add Executioners
 team modify Executioners color gold
+team modify Executioners collisionRule pushOtherTeams
 team modify Executioners friendlyFire false
-team modify Executioners nametagVisibility hideForOtherTeams
+team modify Executioners nametagVisibility always
 team modify Executioners seeFriendlyInvisibles true
+
+team add Guards
 
 team add Gladiators
 team modify Gladiators color dark_red
-team modify Executioners friendlyFire true
+team modify Gladiators collisionRule pushOwnTeam
+team modify Gladiators friendlyFire true
 team modify Gladiators nametagVisibility hideForOwnTeam
-team modify Executioners seeFriendlyInvisibles false
+team modify Gladiators seeFriendlyInvisibles false
+
+team add Rebels
+team modify Rebels color red
+team modify Rebels collisionRule pushOwnTeam
+
+team add Spies
 
 
 
