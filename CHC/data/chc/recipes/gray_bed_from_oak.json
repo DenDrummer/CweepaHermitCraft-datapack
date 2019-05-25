@@ -10,7 +10,7 @@
       "item": "minecraft:gray_wool"
     },
     "X": {
-      "tag": "minecraft:oak_planks"
+      "item": "minecraft:oak_planks"
     }
   },
   "result": {
