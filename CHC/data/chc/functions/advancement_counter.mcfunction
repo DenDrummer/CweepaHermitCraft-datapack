@@ -181,3 +181,38 @@ tag @a[advancements={minecraft:husbandry/tactical_fishing=true},tag=!husbandry_t
 # husbandry/tame_an_animal
 scoreboard players add @a[advancements={minecraft:husbandry/tame_an_animal=true},tag=!husbandry_tame_an_animal] Advancements 1
 tag @a[advancements={minecraft:husbandry/tame_an_animal=true},tag=!husbandry_tame_an_animal] add husbandry_tame_an_animal
+
+
+# nether/all_effects
+scoreboard players add @a[advancements={minecraft:nether/all_effects=true},tag=!end_all_effects] Advancements 1
+tag @a[advancements={minecraft:nether/all_effects=true},tag=!end_all_effects] add end_all_effects
+
+
+# nether/all_potions
+scoreboard players add @a[advancements={minecraft:nether/all_potions=true},tag=!nether_all_potions] Advancements 1
+tag @a[advancements={minecraft:nether/all_potions=true},tag=!nether_all_potions] add nether_all_potions
+
+
+# nether/brew_potion
+scoreboard players add @a[advancements={minecraft:nether/brew_potion=true},tag=!nether_brew_potion] Advancements 1
+tag @a[advancements={minecraft:nether/brew_potion=true},tag=!nether_brew_potion] add nether_brew_potion
+
+
+# nether/create_beacon
+scoreboard players add @a[advancements={minecraft:nether/create_beacon=true},tag=!nether_create_beacon] Advancements 1
+tag @a[advancements={minecraft:nether/create_beacon=true},tag=!nether_create_beacon] add nether_create_beacon
+
+
+# nether/create_full_beacon
+scoreboard players add @a[advancements={minecraft:nether/create_full_beacon=true},tag=!nether_create_full_beacon] Advancements 1
+tag @a[advancements={minecraft:nether/create_full_beacon=true},tag=!nether_create_full_beacon] add nether_create_full_beacon
+
+
+# nether/fast_travel
+scoreboard players add @a[advancements={minecraft:nether/fast_travel=true},tag=!nether_fast_travel] Advancements 1
+tag @a[advancements={minecraft:nether/fast_travel=true},tag=!nether_fast_travel] add nether_fast_travel
+
+
+# nether/find_fortress
+scoreboard players add @a[advancements={minecraft:nether/find_fortress=true},tag=!nether_find_fortress] Advancements 1
+tag @a[advancements={minecraft:nether/find_fortress=true},tag=!nether_find_fortress] add nether_find_fortress

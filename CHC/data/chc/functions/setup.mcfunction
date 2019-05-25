@@ -132,6 +132,7 @@ scoreboard objectives add AcaciaLogMined minecraft.mined:minecraft.acacia_log
 scoreboard objectives add AndesiteMined minecraft.mined:minecraft.andesite
 scoreboard objectives add BambooFarmed minecraft.mined:minecraft.bamboo
 scoreboard objectives add BirchLogMined minecraft.mined:minecraft.birch_log
+scoreboard objectives add ClayMined minecraft.mined:minecraft.clay
 scoreboard objectives add CoalOreMined minecraft.mined:minecraft.coal_ore
 scoreboard objectives add DandelionMined minecraft.mined:minecraft.dandelion
 scoreboard objectives add DarkOakLogMined minecraft.mined:minecraft.dark_oak_log
