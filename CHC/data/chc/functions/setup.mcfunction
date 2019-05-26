@@ -160,6 +160,7 @@ scoreboard objectives add RedstoneOred minecraft.mined:minecraft.redstone_ore
 scoreboard objectives add SandMined minecraft.mined:minecraft.sand
 scoreboard objectives add SpruceLogMined minecraft.mined:minecraft.spruce_log
 scoreboard objectives add StoneMined minecraft.mined:minecraft.stone
+scoreboard objectives add SugarCaneFarmed minecraft.mined:minecraft.sugar_cane
 scoreboard objectives add WheatFarmed minecraft.mined:minecraft.wheat
 
 

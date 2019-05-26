@@ -47,6 +47,7 @@ execute as @a[scores={OakPlanksCrafted=160..,SticksCrafted=80..,WorkbenchCrafted
 execute as @a[scores={OakLogMined=50..},level=1..,tag=!oak_planks] run function chc:oak_planks
 execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_stairs] run function chc:oak_stairs
 execute as @a[scores={OakPlanksCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!oak_slab] run function chc:oak_slab
+execute as @a[scores={SugarCaneFarmed=300..,WorkbenchCrafted=1..},level=1..,tag=!paper] run function chc:paper
 execute as @a[scores={AcaciaPlankCraft=80..},level=1..,tag=!stick_from_acacia] run function chc:stick_from_acacia
 execute as @a[scores={BambooFarmed=200..},level=1..,tag=!stick_from_bamboo_item] run function chc:stick_from_bamboo_item
 execute as @a[scores={BirchPlanksCraft=80..},level=1..,tag=!stick_from_birch] run function chc:stick_from_birch
