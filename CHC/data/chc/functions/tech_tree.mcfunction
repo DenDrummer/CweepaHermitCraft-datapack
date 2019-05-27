@@ -1,5 +1,6 @@
 execute as @a[scores={AcaciaPlankCraft=40..},level=1..,tag=!acacia_button] run function chc:acacia_button
 execute as @a[scores={AcaciaPlankCraft=200..,WorkbenchCrafted=1..},level=1..,tag=!acacia_boat] run function chc:acacia_boat
+execute as @a[scores={AcaciaPlankCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!acacia_door] run function chc:acacia_door
 execute as @a[scores={AcaciaLogMined=50..},level=1..,tag=!acacia_planks] run function chc:acacia_planks
 execute as @a[scores={AcaciaPlankCraft=240..,AcaciaSlabCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!barrel_from_acacia] run function chc:barrel_from_acacia
 execute as @a[scores={BirchPlanksCraft=240..,BirchSlabCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!barrel_from_birch] run function chc:barrel_from_birch
@@ -34,6 +35,7 @@ execute as @a[scores={SprucePlankCraft=320..,WorkbenchCrafted=1..},level=1..,tag
 execute as @a[scores={BirchPlanksCraft=120..,BirchFenceCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!composter_from_birch] run function chc:composter_from_birch
 execute as @a[scores={OakPlanksCrafted=120..,OakFenceCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!composter_from_oak] run function chc:composter_from_oak
 execute as @a[scores={SprucePlankCraft=120..,SpruceFenceCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!composter_from_spruce] run function chc:composter_from_spruce
+execute as @a[scores={AcaciaPlankCraft=160..},level=1..,tag=!crafting_table_from_acacia] run function chc:crafting_table_from_acacia
 execute as @a[scores={BirchPlanksCraft=160..},level=1..,tag=!crafting_table_from_birch] run function chc:crafting_table_from_birch
 execute as @a[scores={OakPlanksCrafted=160..},level=1..,tag=!crafting_table_from_oak] run function chc:crafting_table_from_oak
 execute as @a[scores={SprucePlankCraft=160..},level=1..,tag=!crafting_table_from_spruce] run function chc:crafting_table_from_spruce
@@ -43,6 +45,7 @@ execute as @a[scores={JungleLogMined=50..},level=1..,tag=!jungle_planks] run fun
 execute as @a[scores={SticksCrafted=280..,WorkbenchCrafted=1..},level=1..,tag=!ladder] run function chc:ladder
 execute as @a[scores={OakPlanksCrafted=200..,WorkbenchCrafted=1..},level=1..,tag=!oak_boat] run function chc:oak_boat
 execute as @a[scores={OakPlanksCrafted=40..},level=1..,tag=!oak_button] run function chc:oak_button
+execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_door] run function chc:oak_door
 execute as @a[scores={OakPlanksCrafted=160..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!oak_fence] run function chc:oak_fence
 execute as @a[scores={OakLogMined=50..},level=1..,tag=!oak_planks] run function chc:oak_planks
 execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_stairs] run function chc:oak_stairs
@@ -60,8 +63,10 @@ execute as @a[scores={SpruceLogMined=50..},level=1..,tag=!spruce_planks] run fun
 execute as @a[scores={SprucePlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!spruce_slab] run function chc:spruce_slab
 execute as @a[scores={StoneMined=100..,FurnaceCrafted=1..},level=1..,tag=!stone] run function chc:stone
 execute as @a[scores={BirchPlanksCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_axe_from_birch] run function chc:wooden_axe_from_birch
+execute as @a[scores={OakPlanksCrafted=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_axe_from_oak] run function chc:wooden_axe_from_oak
 execute as @a[scores={SprucePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_axe_from_spruce] run function chc:wooden_axe_from_spruce
 execute as @a[scores={SprucePlankCraft=80..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_hoe_from_spruce] run function chc:wooden_hoe_from_spruce
+execute as @a[scores={AcaciaPlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_pickaxe_from_acacia] run function chc:wooden_pickaxe_from_acacia
 execute as @a[scores={BirchPlanksCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_pickaxe_from_birch] run function chc:wooden_pickaxe_from_birch
 execute as @a[scores={SprucePlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_pickaxe_from_spruce] run function chc:wooden_pickaxe_from_spruce
 
