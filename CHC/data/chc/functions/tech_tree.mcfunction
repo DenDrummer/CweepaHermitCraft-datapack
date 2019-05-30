@@ -37,6 +37,8 @@ execute as @a[scores={OakPlanksCrafted=120..,OakFenceCrafted=120..,WorkbenchCraf
 execute as @a[scores={SprucePlankCraft=120..,SpruceFenceCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!composter_from_spruce] run function chc:composter_from_spruce
 execute as @a[scores={AcaciaPlankCraft=160..},level=1..,tag=!crafting_table_from_acacia] run function chc:crafting_table_from_acacia
 execute as @a[scores={BirchPlanksCraft=160..},level=1..,tag=!crafting_table_from_birch] run function chc:crafting_table_from_birch
+execute as @a[scores={DarkPlankCrafted=160..},level=1..,tag=!crafting_table_from_dark_oak] run function chc:crafting_table_from_dark_oak
+execute as @a[scores={JunglePlankCraft=160..},level=1..,tag=!crafting_table_from_jungle] run function chc:crafting_table_from_jungle
 execute as @a[scores={OakPlanksCrafted=160..},level=1..,tag=!crafting_table_from_oak] run function chc:crafting_table_from_oak
 execute as @a[scores={SprucePlankCraft=160..},level=1..,tag=!crafting_table_from_spruce] run function chc:crafting_table_from_spruce
 execute as @a[scores={DarkOakLogMined=50..},level=1..,tag=!dark_oak_planks] run function chc:dark_oak_planks
@@ -51,6 +53,7 @@ execute as @a[scores={OakLogMined=50..},level=1..,tag=!oak_planks] run function 
 execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_stairs] run function chc:oak_stairs
 execute as @a[scores={OakPlanksCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!oak_slab] run function chc:oak_slab
 execute as @a[scores={SugarCaneFarmed=300..,WorkbenchCrafted=1..},level=1..,tag=!paper] run function chc:paper
+execute as @a[scores={BambooFarmed=600..,SpiderKilled=25..,WorkbenchCrafted=1..},level=1..,tag=!scaffolding] run function chc:scaffolding
 execute as @a[scores={AcaciaPlankCraft=80..},level=1..,tag=!stick_from_acacia] run function chc:stick_from_acacia
 execute as @a[scores={BambooFarmed=200..},level=1..,tag=!stick_from_bamboo_item] run function chc:stick_from_bamboo_item
 execute as @a[scores={BirchPlanksCraft=80..},level=1..,tag=!stick_from_birch] run function chc:stick_from_birch
