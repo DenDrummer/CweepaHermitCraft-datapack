@@ -5,8 +5,8 @@ datapack disable vanilla
 gamerule doFireTick false
 gamerule doLimitedCrafting true
 #disable keepinv because totem of undying farms are a thing?
-gamerule keepInventory true
-gamerule mobGriefing false
+gamerule keepInventory false
+gamerule mobGriefing true
 gamerule spawnRadius 0
 gamerule spectatorsGenerateChunks true
 
@@ -65,6 +65,7 @@ scoreboard objectives add AcaciaSlabCraft minecraft.crafted:minecraft.acacia_sla
 scoreboard objectives add BirchFenceCraft minecraft.crafted:minecraft.birch_fence
 scoreboard objectives add BirchPlanksCraft minecraft.crafted:minecraft.birch_planks
 scoreboard objectives add BirchSlabCrafted minecraft.crafted:minecraft.birch_slab
+scoreboard objectives add BoneMealCrafted minecraft.crafted:minecraft.bone_meal
 scoreboard objectives add CharcoalCrafted minecraft.crafted:minecraft.charcoal
 scoreboard objectives add ChestCrafted minecraft.crafted:minecraft.chest
 scoreboard objectives add DarkFenceCrafted minecraft.crafted:minecraft.dark_oak_fence
@@ -87,6 +88,7 @@ scoreboard objectives add SprucePlankCraft minecraft.crafted:minecraft.spruce_pl
 scoreboard objectives add SpruceSlabCraft minecraft.crafted:minecraft.spruce_slab
 scoreboard objectives add SticksCrafted minecraft.crafted:minecraft.stick
 scoreboard objectives add StoneSmelted minecraft.crafted:minecraft.stone
+scoreboard objectives add WhiteWoolCrafted minecraft.crafted:minecraft.white_wool
 scoreboard objectives add WorkbenchCrafted minecraft.crafted:minecraft.crafting_table
 
 
@@ -104,6 +106,7 @@ scoreboard objectives add GuardianKilled minecraft.killed:minecraft.guardian
 scoreboard objectives add PhantomKilled minecraft.killed:minecraft.phantom
 scoreboard objectives add PigKilled minecraft.killed:minecraft.pig
 scoreboard objectives add RabbitKilled minecraft.killed:minecraft.rabbit
+scoreboard objectives add RavagerKills minecraft.killed:minecraft.ravager
 scoreboard objectives add SheepKilled minecraft.killed:minecraft.sheep
 scoreboard objectives add SkeletonKilled minecraft.killed:minecraft.skeleton
 scoreboard objectives add SlimeKilled minecraft.killed:minecraft.slime
@@ -118,11 +121,19 @@ scoreboard objectives add ZombiePigmanKill minecraft.killed:minecraft.zombie_pig
 #Scoreboard killed_by
 #scoreboard objectives add Deaths minecraft.killed_by:minecraft.
 
+scoreboard objectives add BlazeDeaths minecraft.killed_by:minecraft.blaze
+scoreboard objectives add CaveSpiderDeaths minecraft.killed_by:minecraft.cave_spider
 scoreboard objectives add CreeperDeaths minecraft.killed_by:minecraft.creeper
+scoreboard objectives add DrownedDeaths minecraft.killed_by:minecraft.drowned
+scoreboard objectives add ElderGuardDeaths minecraft.killed_by:minecraft.elder_guardian
 scoreboard objectives add EndermanDeaths minecraft.killed_by:minecraft.enderman
+scoreboard objectives add RavagerDeaths minecraft.killed_by:minecraft.ravager
 scoreboard objectives add SkeletonDeaths minecraft.killed_by:minecraft.skeleton
+scoreboard objectives add SpiderDeaths minecraft.killed_by:minecraft.spider
 scoreboard objectives add PhantomDeaths minecraft.killed_by:minecraft.phantom
 scoreboard objectives add PillagerDeaths minecraft.killed_by:minecraft.pillager
+scoreboard objectives add VindicatorDeaths minecraft.killed_by:minecraft.vindicator
+scoreboard objectives add ZombieDeaths minecraft.killed_by:minecraft.zombie
 
 
 #Scoreboard mined
@@ -156,7 +167,7 @@ scoreboard objectives add OakLogMined minecraft.mined:minecraft.oak_log
 scoreboard objectives add ObsidianMined minecraft.mined:minecraft.obsidian
 scoreboard objectives add PoppyMined minecraft.mined:minecraft.poppy
 scoreboard objectives add RedSandMined minecraft.mined:minecraft.red_sand
-scoreboard objectives add RedstoneOred minecraft.mined:minecraft.redstone_ore
+scoreboard objectives add RedstoneOreMined minecraft.mined:minecraft.redstone_ore
 scoreboard objectives add SandMined minecraft.mined:minecraft.sand
 scoreboard objectives add SpruceLogMined minecraft.mined:minecraft.spruce_log
 scoreboard objectives add StoneMined minecraft.mined:minecraft.stone
