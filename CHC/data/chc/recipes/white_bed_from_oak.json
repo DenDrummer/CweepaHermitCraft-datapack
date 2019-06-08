@@ -7,13 +7,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:cyan_wool"
+      "item": "minecraft:white_wool"
     },
     "X": {
-      "item": "minecraft:_planks"
+      "item": "minecraft:oak_planks"
     }
   },
   "result": {
-    "item": "minecraft:cyan_bed"
+    "item": "minecraft:white_bed"
   }
 }

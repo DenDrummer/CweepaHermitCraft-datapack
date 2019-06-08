@@ -10,7 +10,7 @@
       "item": "minecraft:white_wool"
     },
     "X": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:birch_planks"
     }
   },
   "result": {

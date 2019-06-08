@@ -181,3 +181,148 @@ tag @a[advancements={minecraft:husbandry/tactical_fishing=true},tag=!husbandry_t
 # husbandry/tame_an_animal
 scoreboard players add @a[advancements={minecraft:husbandry/tame_an_animal=true},tag=!husbandry_tame_an_animal] Advancements 1
 tag @a[advancements={minecraft:husbandry/tame_an_animal=true},tag=!husbandry_tame_an_animal] add husbandry_tame_an_animal
+
+
+# nether/all_effects
+scoreboard players add @a[advancements={minecraft:nether/all_effects=true},tag=!end_all_effects] Advancements 1
+tag @a[advancements={minecraft:nether/all_effects=true},tag=!end_all_effects] add end_all_effects
+
+
+# nether/all_potions
+scoreboard players add @a[advancements={minecraft:nether/all_potions=true},tag=!nether_all_potions] Advancements 1
+tag @a[advancements={minecraft:nether/all_potions=true},tag=!nether_all_potions] add nether_all_potions
+
+
+# nether/brew_potion
+scoreboard players add @a[advancements={minecraft:nether/brew_potion=true},tag=!nether_brew_potion] Advancements 1
+tag @a[advancements={minecraft:nether/brew_potion=true},tag=!nether_brew_potion] add nether_brew_potion
+
+
+# nether/create_beacon
+scoreboard players add @a[advancements={minecraft:nether/create_beacon=true},tag=!nether_create_beacon] Advancements 1
+tag @a[advancements={minecraft:nether/create_beacon=true},tag=!nether_create_beacon] add nether_create_beacon
+
+
+# nether/create_full_beacon
+scoreboard players add @a[advancements={minecraft:nether/create_full_beacon=true},tag=!nether_create_full_beacon] Advancements 1
+tag @a[advancements={minecraft:nether/create_full_beacon=true},tag=!nether_create_full_beacon] add nether_create_full_beacon
+
+
+# nether/fast_travel
+scoreboard players add @a[advancements={minecraft:nether/fast_travel=true},tag=!nether_fast_travel] Advancements 1
+tag @a[advancements={minecraft:nether/fast_travel=true},tag=!nether_fast_travel] add nether_fast_travel
+
+
+# nether/find_fortress
+scoreboard players add @a[advancements={minecraft:nether/find_fortress=true},tag=!nether_find_fortress] Advancements 1
+tag @a[advancements={minecraft:nether/find_fortress=true},tag=!nether_find_fortress] add nether_find_fortress
+
+
+# nether/get_wither_skull
+scoreboard players add @a[advancements={minecraft:nether/get_wither_skull=true},tag=!nether_get_wither_skull] Advancements 1
+tag @a[advancements={minecraft:nether/get_wither_skull=true},tag=!nether_get_wither_skull] add nether_get_wither_skull
+
+
+# nether/obtain_blaze_rod
+scoreboard players add @a[advancements={minecraft:nether/obtain_blaze_rod=true},tag=!nether_obtain_blaze_rod] Advancements 1
+tag @a[advancements={minecraft:nether/obtain_blaze_rod=true},tag=!nether_obtain_blaze_rod] add nether_obtain_blaze_rod
+
+
+# nether/return_to_sender
+scoreboard players add @a[advancements={minecraft:nether/return_to_sender=true},tag=!nether_return_to_sender] Advancements 1
+tag @a[advancements={minecraft:nether/return_to_sender=true},tag=!nether_return_to_sender] add nether_return_to_sender
+
+
+# nether/root
+scoreboard players add @a[advancements={minecraft:nether/root=true},tag=!nether_root] Advancements 1
+tag @a[advancements={minecraft:nether/root=true},tag=!nether_root] add nether_root
+
+
+# nether/summon_wither
+scoreboard players add @a[advancements={minecraft:nether/summon_wither=true},tag=!nether_summon_wither] Advancements 1
+tag @a[advancements={minecraft:nether/summon_wither=true},tag=!nether_summon_wither] add nether_summon_wither
+
+
+# nether/uneasy_alliance
+scoreboard players add @a[advancements={minecraft:nether/uneasy_alliance=true},tag=!nether_uneasy_alliance] Advancements 1
+tag @a[advancements={minecraft:nether/uneasy_alliance=true},tag=!nether_uneasy_alliance] add nether_uneasy_alliance
+
+
+# story/cure_zombie_villager
+scoreboard players add @a[advancements={minecraft:story/cure_zombie_villager=true},tag=!story_cure_zombie_villager] Advancements 1
+tag @a[advancements={minecraft:story/cure_zombie_villager=true},tag=!story_cure_zombie_villager] add story_cure_zombie_villager
+
+
+# story/deflect_arrow
+scoreboard players add @a[advancements={minecraft:story/deflect_arrow=true},tag=!story_deflect_arrow] Advancements 1
+tag @a[advancements={minecraft:story/deflect_arrow=true},tag=!story_deflect_arrow] add story_deflect_arrow
+
+
+# story/enchant_item
+scoreboard players add @a[advancements={minecraft:story/enchant_item=true},tag=!story_enchant_item] Advancements 1
+tag @a[advancements={minecraft:story/enchant_item=true},tag=!story_enchant_item] add story_enchant_item
+
+
+# story/enter_the_end
+scoreboard players add @a[advancements={minecraft:story/enter_the_end=true},tag=!story_enter_the_end] Advancements 1
+tag @a[advancements={minecraft:story/enter_the_end=true},tag=!story_enter_the_end] add story_enter_the_end
+
+
+# story/enter_the_nether
+scoreboard players add @a[advancements={minecraft:story/enter_the_nether=true},tag=!story_enter_the_nether] Advancements 1
+tag @a[advancements={minecraft:story/enter_the_nether=true},tag=!story_enter_the_nether] add story_enter_the_nether
+
+
+# story/follow_ender_eye
+scoreboard players add @a[advancements={minecraft:story/follow_ender_eye=true},tag=!story_follow_ender_eye] Advancements 1
+tag @a[advancements={minecraft:story/follow_ender_eye=true},tag=!story_follow_ender_eye] add story_follow_ender_eye
+
+
+# story/form_obsidian
+scoreboard players add @a[advancements={minecraft:story/form_obsidian=true},tag=!story_form_obsidian] Advancements 1
+tag @a[advancements={minecraft:story/form_obsidian=true},tag=!story_form_obsidian] add story_form_obsidian
+
+
+# story/iron_tools
+scoreboard players add @a[advancements={minecraft:story/iron_tools=true},tag=!story_iron_tools] Advancements 1
+tag @a[advancements={minecraft:story/iron_tools=true},tag=!story_iron_tools] add story_iron_tools
+
+
+# story/lava_bucket
+scoreboard players add @a[advancements={minecraft:story/lava_bucket=true},tag=!story_lava_bucket] Advancements 1
+tag @a[advancements={minecraft:story/lava_bucket=true},tag=!story_lava_bucket] add story_lava_bucket
+
+
+# story/mine_diamond
+scoreboard players add @a[advancements={minecraft:story/mine_diamond=true},tag=!story_mine_diamond] Advancements 1
+tag @a[advancements={minecraft:story/mine_diamond=true},tag=!story_mine_diamond] add story_mine_diamond
+
+
+# story/mine_stone
+scoreboard players add @a[advancements={minecraft:story/mine_stone=true},tag=!story_mine_stone] Advancements 1
+tag @a[advancements={minecraft:story/mine_stone=true},tag=!story_mine_stone] add story_mine_stone
+
+
+# story/obtain_armor
+scoreboard players add @a[advancements={minecraft:story/obtain_armor=true},tag=!story_obtain_armor] Advancements 1
+tag @a[advancements={minecraft:story/obtain_armor=true},tag=!story_obtain_armor] add story_obtain_armor
+
+
+# story/root
+scoreboard players add @a[advancements={minecraft:story/root=true},tag=!story_root] Advancements 1
+tag @a[advancements={minecraft:story/root=true},tag=!story_root] add story_root
+
+
+# story/shiny_gear
+scoreboard players add @a[advancements={minecraft:story/shiny_gear=true},tag=!story_shiny_gear] Advancements 1
+tag @a[advancements={minecraft:story/shiny_gear=true},tag=!story_shiny_gear] add story_shiny_gear
+
+
+# story/smelt_iron
+scoreboard players add @a[advancements={minecraft:story/smelt_iron=true},tag=!story_smelt_iron] Advancements 1
+tag @a[advancements={minecraft:story/smelt_iron=true},tag=!story_smelt_iron] add story_smelt_iron
+
+
+# story/upgrade_tools
+scoreboard players add @a[advancements={minecraft:story/upgrade_tools=true},tag=!story_upgrade_tools] Advancements 1
+tag @a[advancements={minecraft:story/upgrade_tools=true},tag=!story_upgrade_tools] add story_upgrade_tools

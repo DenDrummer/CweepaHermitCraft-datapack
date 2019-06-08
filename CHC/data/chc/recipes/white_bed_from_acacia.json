@@ -7,13 +7,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:gray_wool"
+      "item": "minecraft:white_wool"
     },
     "X": {
-      "item": "minecraft:birch_planks"
+      "item": "minecraft:acacia_planks"
     }
   },
   "result": {
-    "item": "minecraft:gray_bed"
+    "item": "minecraft:white_bed"
   }
 }
