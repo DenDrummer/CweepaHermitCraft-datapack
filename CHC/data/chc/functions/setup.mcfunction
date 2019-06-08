@@ -65,6 +65,7 @@ scoreboard objectives add AcaciaSlabCraft minecraft.crafted:minecraft.acacia_sla
 scoreboard objectives add BirchFenceCraft minecraft.crafted:minecraft.birch_fence
 scoreboard objectives add BirchPlanksCraft minecraft.crafted:minecraft.birch_planks
 scoreboard objectives add BirchSlabCrafted minecraft.crafted:minecraft.birch_slab
+scoreboard objectives add CampfireCrafted minecraft.crafted:minecraft.campfire
 scoreboard objectives add CharcoalCrafted minecraft.crafted:minecraft.charcoal
 scoreboard objectives add ChestCrafted minecraft.crafted:minecraft.chest
 scoreboard objectives add DarkFenceCrafted minecraft.crafted:minecraft.dark_oak_fence
