@@ -142,10 +142,12 @@ scoreboard objectives add ZombieDeaths minecraft.killed_by:minecraft.zombie
 
 scoreboard objectives add AcaciaLogMined minecraft.mined:minecraft.acacia_log
 scoreboard objectives add AndesiteMined minecraft.mined:minecraft.andesite
+scoreboard objectives add AzureBluetMined minecraft.mined:minecraft.azure_bluet
 scoreboard objectives add BambooFarmed minecraft.mined:minecraft.bamboo
 scoreboard objectives add BirchLogMined minecraft.mined:minecraft.birch_log
 scoreboard objectives add ClayMined minecraft.mined:minecraft.clay
 scoreboard objectives add CoalOreMined minecraft.mined:minecraft.coal_ore
+scoreboard objectives add CornflowerMined minecraft.mined:minecraft.cornflower
 scoreboard objectives add DandelionMined minecraft.mined:minecraft.dandelion
 scoreboard objectives add DarkOakLogMined minecraft.mined:minecraft.dark_oak_log
 scoreboard objectives add DiamondOreMined minecraft.mined:minecraft.diamond_ore
@@ -169,6 +171,7 @@ scoreboard objectives add ObsidianMined minecraft.mined:minecraft.obsidian
 scoreboard objectives add PoppyMined minecraft.mined:minecraft.poppy
 scoreboard objectives add RedSandMined minecraft.mined:minecraft.red_sand
 scoreboard objectives add RedstoneOreMined minecraft.mined:minecraft.redstone_ore
+scoreboard objectives add RedTulipMined minecraft.mined:minecraft.red_tulip
 scoreboard objectives add SandMined minecraft.mined:minecraft.sand
 scoreboard objectives add SpruceLogMined minecraft.mined:minecraft.spruce_log
 scoreboard objectives add StoneMined minecraft.mined:minecraft.stone
