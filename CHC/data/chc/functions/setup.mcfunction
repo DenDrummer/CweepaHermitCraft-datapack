@@ -73,6 +73,7 @@ scoreboard objectives add DarkFenceCrafted minecraft.crafted:minecraft.dark_oak_
 scoreboard objectives add DarkPlankCrafted minecraft.crafted:minecraft.dark_oak_planks
 scoreboard objectives add DarkSlabCrafted minecraft.crafted:minecraft.dark_oak_slab
 scoreboard objectives add FurnaceCrafted minecraft.crafted:minecraft.furnace
+scoreboard objectives add IronSmeltOrCraft minecraft.crafted:minecraft.iron_ingot
 scoreboard objectives add JunglePlankCraft minecraft.crafted:minecraft.jungle_planks
 scoreboard objectives add JungleSlabCraft minecraft.crafted:minecraft.jungle_slab
 scoreboard objectives add KelpDried minecraft.crafted:minecraft.dried_kelp
