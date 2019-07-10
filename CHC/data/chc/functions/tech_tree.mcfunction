@@ -54,6 +54,8 @@ execute as @a[scores={StoneMined=800..,WorkbenchCrafted=1..},level=1..,tag=!furn
 execute as @a[scores={JungleLogMined=50..},level=1..,tag=!jungle_planks] run function chc:jungle_planks
 execute as @a[scores={SticksCrafted=280..,WorkbenchCrafted=1..},level=1..,tag=!ladder] run function chc:ladder
 execute as @a[scores={CowKilled=100..,WorkbenchCrafted=1..},level=1..,tag=!leather_boots] run function chc:leather_boots
+execute as @a[scores={CowKilled=175..,WorkbenchCrafted=1..},level=1..,tag=!leather_horse_armor] run function chc:leather_horse_armor
+execute as @a[scores={CowKilled=175..,WorkbenchCrafted=1..},level=1..,tag=!leather_leggings] run function chc:leather_leggings
 execute as @a[scores={OakPlanksCrafted=200..,WorkbenchCrafted=1..},level=1..,tag=!oak_boat] run function chc:oak_boat
 execute as @a[scores={OakPlanksCrafted=40..},level=1..,tag=!oak_button] run function chc:oak_button
 execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!oak_door] run function chc:oak_door
