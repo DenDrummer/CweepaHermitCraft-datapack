@@ -5,7 +5,7 @@ datapack disable vanilla
 gamerule doFireTick false
 gamerule doLimitedCrafting true
 #disable keepinv because totem of undying farms are a thing?
-gamerule keepInventory false
+gamerule keepInventory true
 gamerule mobGriefing true
 gamerule spawnRadius 0
 gamerule spectatorsGenerateChunks true

@@ -50,7 +50,7 @@ execute as @a[scores={DarkOakLogMined=50..},level=1..,tag=!dark_oak_planks] run 
 execute as @a[scores={DarkPlankCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!dark_oak_slab] run function chc:dark_oak_slab
 execute as @a[scores={DarkPlankCrafted=240..,WorkbenchCrafted=1..},level=1..,tag=!dark_oak_stairs] run function chc:dark_oak_stairs
 execute as @a[scores={SticksCrafted=120..,SpiderKilled=50..,WorkbenchCrafted=1..},level=1..,tag=!fishing_rod] run function chc:fishing_rod
-execute as @a[scores={StoneMined=800..,WorkbenchCrafted=1..},level=1..,tag=!furnace] run function chc:furnace
+execute as @a[scores={StoneMined=400..,WorkbenchCrafted=1..},level=1..,tag=!furnace] run function chc:furnace
 execute as @a[scores={JungleLogMined=50..},level=1..,tag=!jungle_planks] run function chc:jungle_planks
 execute as @a[scores={SticksCrafted=280..,WorkbenchCrafted=1..},level=1..,tag=!ladder] run function chc:ladder
 execute as @a[scores={CowKilled=100..,WorkbenchCrafted=1..},level=1..,tag=!leather_boots] run function chc:leather_boots
@@ -75,7 +75,7 @@ execute as @a[scores={SprucePlankCraft=80..},level=1..,tag=!stick_from_spruce] r
 execute as @a[scores={SprucePlankCraft=160..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!spruce_fence] run function chc:spruce_fence
 execute as @a[scores={SpruceLogMined=50..},level=1..,tag=!spruce_planks] run function chc:spruce_planks
 execute as @a[scores={SprucePlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!spruce_slab] run function chc:spruce_slab
-execute as @a[scores={StoneMined=100..,FurnaceCrafted=1..},level=1..,tag=!stone] run function chc:stone
+execute as @a[scores={StoneMined=50..,FurnaceCrafted=1..},level=1..,tag=!stone] run function chc:stone
 execute as @a[scores={SugarCaneFarmed=50..},level=1..,tag=!sugar] run function chc:sugar
 execute as @a[scores={SheepKilled=75..,WhiteWoolCrafted=30..,AcaciaPlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!white_bed_from_acacia] run function chc:white_bed_from_acacia
 execute as @a[scores={AcaciaPlankCraft=120..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!wooden_axe_from_acacia] run function chc:wooden_axe_from_acacia
