@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "tripwire_hook"
+  "group": "tripwire_hook",
   "pattern": [
     "I",
     "S",
