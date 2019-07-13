@@ -10,3 +10,6 @@ tag @s add bone_meal
 #cost
 scoreboard players remove @s SkeletonKilled 25
 xp add @s -1 levels
+
+#announcement
+me unlocked bone_meal

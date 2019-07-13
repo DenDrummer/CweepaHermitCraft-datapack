@@ -10,3 +10,6 @@ tag @s add acacia_planks
 #cost
 scoreboard players remove @s AcaciaLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked acacia_planks

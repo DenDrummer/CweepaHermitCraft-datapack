@@ -10,3 +10,6 @@ tag @s add birch_planks
 #cost
 scoreboard players remove @s BirchLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked birch_planks

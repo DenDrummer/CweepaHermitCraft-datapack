@@ -10,3 +10,6 @@ tag @s add TODO
 #cost
 scoreboard players remove @s TODO 1
 xp add @s -1 levels
+
+#announcement
+me unlocked TODO

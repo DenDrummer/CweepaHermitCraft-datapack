@@ -10,3 +10,6 @@ tag @s add birch_wood
 #cost
 scoreboard players remove @s BirchLogMined 200
 xp add @s -1 levels
+
+#announcement
+me unlocked birch_wood

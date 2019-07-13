@@ -11,3 +11,6 @@ tag @s add dark_oak_stairs
 scoreboard players remove @s DarkPlankCrafted 240
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked dark_oak_stairs

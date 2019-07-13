@@ -11,3 +11,6 @@ tag @s add birch_door
 scoreboard players remove @s BirchPlanksCraft 240
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked birch_door

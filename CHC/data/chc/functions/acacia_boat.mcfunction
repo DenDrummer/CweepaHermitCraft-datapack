@@ -11,3 +11,6 @@ tag @s add acacia_boat
 scoreboard players remove @s AcaciaPlankCraft 200
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked acacia_boat

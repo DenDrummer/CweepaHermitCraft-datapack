@@ -10,3 +10,6 @@ tag @s add sugar
 #cost
 scoreboard players remove @s SugarCaneFarmed 50
 xp add @s -1 levels
+
+#announcement
+me unlocked sugar

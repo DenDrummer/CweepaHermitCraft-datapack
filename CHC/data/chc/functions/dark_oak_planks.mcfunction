@@ -10,3 +10,6 @@ tag @s add dark_oak_planks
 #cost
 scoreboard players remove @s DarkOakLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked dark_oak_planks

@@ -10,3 +10,6 @@ tag @s add stick_from_jungle
 #cost
 scoreboard players remove @s JunglePlankCraft 80
 xp add @s -1 levels
+
+#announcement
+me unlocked stick_from_jungle

@@ -12,3 +12,6 @@ scoreboard players remove @s AcaciaPlankCraft 80
 scoreboard players remove @s SticksCrafted 160
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked acacia_fence_gate

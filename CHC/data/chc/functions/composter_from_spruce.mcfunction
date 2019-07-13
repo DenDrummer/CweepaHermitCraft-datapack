@@ -12,3 +12,6 @@ scoreboard players remove @s SprucePlankCraft 120
 scoreboard players remove @s SpruceFenceCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked composter_from_spruce

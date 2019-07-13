@@ -10,3 +10,6 @@ tag @s add acacia_pressure_plate
 #cost
 scoreboard players remove @s AcaciaPlankCraft 80
 xp add @s -1 levels
+
+#announcement
+me unlocked acacia_pressure_plate

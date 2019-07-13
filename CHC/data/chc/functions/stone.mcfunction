@@ -11,3 +11,6 @@ tag @s add stone
 scoreboard players remove @s StoneMined 100
 scoreboard players remove @s FurnaceCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked stone

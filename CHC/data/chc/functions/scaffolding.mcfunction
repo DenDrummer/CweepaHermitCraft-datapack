@@ -12,3 +12,6 @@ scoreboard players remove @s BambooFarmed 600
 scoreboard players remove @s SpiderKilled 25
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked scaffolding

@@ -12,3 +12,6 @@ scoreboard players remove @s KelpPlantMined 100
 scoreboard players remove @s KelpDried 100
 scoreboard players remove @s FurnaceCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked dried_kelp_from_smelting

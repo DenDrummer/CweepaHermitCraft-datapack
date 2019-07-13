@@ -10,3 +10,6 @@ tag @s add stick_from_bamboo_item
 #cost
 scoreboard players remove @s BambooFarmed 200
 xp add @s -1 levels
+
+#announcement
+me unlocked stick_from_bamboo_item

@@ -12,3 +12,6 @@ scoreboard players remove @s DarkPlankCrafted 240
 scoreboard players remove @s DarkSlabCrafted 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked barrel_from_dark_oak

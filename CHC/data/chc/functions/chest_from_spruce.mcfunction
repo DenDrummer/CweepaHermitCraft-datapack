@@ -11,3 +11,6 @@ tag @s add chest_from_spruce
 scoreboard players remove @s SprucePlankCraft 320
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked chest_from_spruce

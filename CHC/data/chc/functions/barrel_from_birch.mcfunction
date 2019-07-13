@@ -12,3 +12,6 @@ scoreboard players remove @s BirchPlanksCraft 240
 scoreboard players remove @s BirchSlabCrafted 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked barrel_from_birch

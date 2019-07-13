@@ -12,3 +12,6 @@ scoreboard players remove @s AcaciaPlankCraft 240
 scoreboard players remove @s AcaciaSlabCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked unlocked barrel_from_acacia

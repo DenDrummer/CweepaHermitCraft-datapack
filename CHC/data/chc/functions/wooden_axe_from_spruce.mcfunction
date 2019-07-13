@@ -12,3 +12,6 @@ scoreboard players remove @s SprucePlankCraft 120
 scoreboard players remove @s SticksCrafted 80
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked wooden_axe_from_spruce

@@ -11,3 +11,6 @@ tag @s add bread
 scoreboard players remove @s WheatFarmed 150
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked bread

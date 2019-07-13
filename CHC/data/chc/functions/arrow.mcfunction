@@ -13,3 +13,6 @@ scoreboard players remove @s ChickenKilled 25
 scoreboard players remove @s GravelMined 50
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked arrow

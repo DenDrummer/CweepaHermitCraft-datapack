@@ -11,3 +11,6 @@ tag @s add chest_from_birch
 scoreboard players remove @s BirchPlanksCraft 320
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked chest_from_birch

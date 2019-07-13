@@ -10,3 +10,6 @@ tag @s add jungle_planks
 #cost
 scoreboard players remove @s JungleLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked jungle_planks

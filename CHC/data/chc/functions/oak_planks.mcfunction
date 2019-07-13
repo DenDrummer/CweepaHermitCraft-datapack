@@ -10,3 +10,6 @@ tag @s add oak_planks
 #cost
 scoreboard players remove @s OakLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked oak_planks

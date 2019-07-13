@@ -11,3 +11,6 @@ tag @s add leather_boots
 scoreboard players remove @s CowKilled 100
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked leather_boots

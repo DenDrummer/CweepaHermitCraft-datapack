@@ -11,3 +11,6 @@ tag @s add flint_and_steel
 scoreboard players remove @s GravelMined 50
 scoreboard players remove @s IronSmeltOrCraft 10
 xp add @s -1 levels
+
+#announcement
+me unlocked flint_and_steel

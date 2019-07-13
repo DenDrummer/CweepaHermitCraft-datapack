@@ -12,3 +12,6 @@ scoreboard players remove @s OakPlanksCrafted 120
 scoreboard players remove @s OakFenceCrafted 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked composter_from_oak

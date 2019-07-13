@@ -11,3 +11,6 @@ tag @s add bowl_from_birch
 scoreboard players remove @s BirchPlanksCraft 120
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked bowl_from_birch

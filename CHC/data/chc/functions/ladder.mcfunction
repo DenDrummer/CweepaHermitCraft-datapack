@@ -11,3 +11,6 @@ tag @s add ladder
 scoreboard players remove @s SticksCrafted 280
 scoreboard players remove @s WorkbenchCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked ladder

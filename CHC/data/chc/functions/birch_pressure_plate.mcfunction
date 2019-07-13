@@ -10,3 +10,6 @@ tag @s add birch_pressure_plate
 #cost
 scoreboard players remove @s BirchPlanksCraft 80
 xp add @s -1 levels
+
+#announcement
+me unlocked birch_pressure_plate

@@ -11,3 +11,6 @@ tag @s add dried_kelp_from_campfire_cooking
 scoreboard players remove @s KelpPlantMined 100
 scoreboard players remove @s CampfireCrafted 1
 xp add @s -1 levels
+
+#announcement
+me unlocked dried_kelp_from_campfire_cooking

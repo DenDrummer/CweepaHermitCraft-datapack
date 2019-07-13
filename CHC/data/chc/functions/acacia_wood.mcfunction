@@ -10,3 +10,6 @@ tag @s add acacia_wood
 #cost
 scoreboard players remove @s AcaciaLogMined 200
 xp add @s -1 levels
+
+#announcement
+me unlocked acacia_wood

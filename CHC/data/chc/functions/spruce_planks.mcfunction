@@ -10,3 +10,6 @@ tag @s add spruce_planks
 #cost
 scoreboard players remove @s SpruceLogMined 50
 xp add @s -1 levels
+
+#announcement
+me unlocked spruce_planks
