@@ -20,10 +20,11 @@ execute as @a[scores={BirchPlanksCraft=160..,SticksCrafted=80..,WorkbenchCrafted
 execute as @a[scores={BirchPlanksCraft=80..,SticksCrafted=160..,WorkbenchCrafted=1..},level=1..,tag=!birch_fence_gate] run function chc:birch_fence_gate
 execute as @a[scores={BirchLogMined=50..},level=1..,tag=!birch_planks] run function chc:birch_planks
 execute as @a[scores={BirchPlanksCraft=80..},level=1..,tag=!birch_pressure_plate] run function chc:birch_pressure_plate
-execute as @a[scores={BirchPlanksCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!birch_stairs] run function chc:birch_stairs
 execute as @a[scores={BirchPlanksCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!birch_slab] run function chc:birch_slab
+execute as @a[scores={BirchPlanksCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!birch_stairs] run function chc:birch_stairs
 execute as @a[scores={BirchPlanksCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!birch_trapdoor] run function chc:birch_trapdoor
 execute as @a[scores={BirchLogMined=200..},level=1..,tag=!birch_wood] run function chc:birch_wood
+execute as @a[scores={BoneMealCrafted=270..,WorkbenchCrafted=1..},level=1..,tag=!bone_block] run function chc:bone_block
 execute as @a[scores={SkeletonKilled=25..},level=1..,tag=!bone_meal] run function chc:bone_meal
 execute as @a[scores={AcaciaPlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!bowl_from_acacia] run function chc:bowl_from_acacia
 execute as @a[scores={BirchPlanksCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!bowl_from_birch] run function chc:bowl_from_birch
