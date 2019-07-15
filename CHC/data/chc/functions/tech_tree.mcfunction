@@ -4,6 +4,7 @@ execute as @a[scores={AcaciaPlankCraft=240..,WorkbenchCrafted=1..},level=1..,tag
 execute as @a[scores={AcaciaPlankCraft=160..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!acacia_fence] run function chc:acacia_fence
 execute as @a[scores={AcaciaPlankCraft=80..,SticksCrafted=160..,WorkbenchCrafted=1..},level=1..,tag=!acacia_fence_gate] run function chc:acacia_fence_gate
 execute as @a[scores={AcaciaLogMined=50..},level=1..,tag=!acacia_planks] run function chc:acacia_planks
+execute as @a[scores={AcaciaPlankCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!acacia_stairs] run function chc:acacia_stairs
 execute as @a[scores={AcaciaLogMined=200..},level=1..,tag=!acacia_wood] run function chc:acacia_wood
 execute as @a[scores={SticksCrafted=40..,ChickenKilled=25..,GravelMined=50..,WorkbenchCrafted=1..},level=1..,tag=!arrow] run function chc:arrow
 execute as @a[scores={AcaciaPlankCraft=240..,AcaciaSlabCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!barrel_from_acacia] run function chc:barrel_from_acacia
@@ -65,6 +66,10 @@ execute as @a[scores={OakPlanksCrafted=240..,WorkbenchCrafted=1..},level=1..,tag
 execute as @a[scores={OakPlanksCrafted=120..,WorkbenchCrafted=1..},level=1..,tag=!oak_slab] run function chc:oak_slab
 execute as @a[scores={SugarCaneFarmed=300..,WorkbenchCrafted=1..},level=1..,tag=!paper] run function chc:paper
 execute as @a[scores={BambooFarmed=600..,SpiderKilled=25..,WorkbenchCrafted=1..},level=1..,tag=!scaffolding] run function chc:scaffolding
+execute as @a[scores={SprucePlankCraft=160..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!spruce_fence] run function chc:spruce_fence
+execute as @a[scores={SpruceLogMined=50..},level=1..,tag=!spruce_planks] run function chc:spruce_planks
+execute as @a[scores={SprucePlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!spruce_slab] run function chc:spruce_slab
+execute as @a[scores={SprucePlankCraft=240..,WorkbenchCrafted=1..},level=1..,tag=!spruce_stairs] run function chc:spruce_stairs
 execute as @a[scores={AcaciaPlankCraft=80..},level=1..,tag=!stick_from_acacia] run function chc:stick_from_acacia
 execute as @a[scores={BambooFarmed=200..},level=1..,tag=!stick_from_bamboo_item] run function chc:stick_from_bamboo_item
 execute as @a[scores={BirchPlanksCraft=80..},level=1..,tag=!stick_from_birch] run function chc:stick_from_birch
@@ -72,9 +77,6 @@ execute as @a[scores={DarkPlankCrafted=80..},level=1..,tag=!stick_from_dark_oak]
 execute as @a[scores={OakPlanksCrafted=80..},level=1..,tag=!stick_from_oak] run function chc:stick_from_oak
 execute as @a[scores={JunglePlankCraft=80..},level=1..,tag=!stick_from_jungle] run function chc:stick_from_jungle
 execute as @a[scores={SprucePlankCraft=80..},level=1..,tag=!stick_from_spruce] run function chc:stick_from_spruce
-execute as @a[scores={SprucePlankCraft=160..,SticksCrafted=80..,WorkbenchCrafted=1..},level=1..,tag=!spruce_fence] run function chc:spruce_fence
-execute as @a[scores={SpruceLogMined=50..},level=1..,tag=!spruce_planks] run function chc:spruce_planks
-execute as @a[scores={SprucePlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!spruce_slab] run function chc:spruce_slab
 execute as @a[scores={StoneMined=50..,FurnaceCrafted=1..},level=1..,tag=!stone] run function chc:stone
 execute as @a[scores={SugarCaneFarmed=50..},level=1..,tag=!sugar] run function chc:sugar
 execute as @a[scores={SheepKilled=75..,WhiteWoolCrafted=30..,AcaciaPlankCraft=120..,WorkbenchCrafted=1..},level=1..,tag=!white_bed_from_acacia] run function chc:white_bed_from_acacia
